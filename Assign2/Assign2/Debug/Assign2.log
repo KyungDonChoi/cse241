@@ -1,0 +1,13 @@
+﻿  Source.cpp
+d:\project\computer science project\object_oriented_programming\assign2\assign2\source.cpp(99): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign2\assign2\source.cpp(133): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign2\assign2\source.cpp(145): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign2\assign2\source.cpp(212): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign2\assign2\source.cpp(223): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign2\assign2\source.cpp(225): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign2\assign2\source.cpp(229): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign2\assign2\source.cpp(245): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign2\assign2\source.cpp(263): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign2\assign2\source.cpp(265): warning C4018: '<': signed/unsigned mismatch
+  Assign2.vcxproj -> D:\Project\Computer Science Project\Object_Oriented_Programming\Assign2\Debug\Assign2.exe
+  Assign2.vcxproj -> D:\Project\Computer Science Project\Object_Oriented_Programming\Assign2\Debug\Assign2.pdb (Full PDB)

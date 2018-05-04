@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\project\computer science project\object_oriented_programming\assign3\assign3\source.cpp(67): warning C4018: '<=': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign3\assign3\source.cpp(69): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign3\assign3\source.cpp(101): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign3\assign3\source.cpp(132): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign3\assign3\source.cpp(143): warning C4018: '<': signed/unsigned mismatch
+  Assign3.vcxproj -> D:\Project\Computer Science Project\Object_Oriented_Programming\Assign3\Debug\Assign3.exe
+  Assign3.vcxproj -> D:\Project\Computer Science Project\Object_Oriented_Programming\Assign3\Debug\Assign3.pdb (Full PDB)

@@ -1,0 +1,12 @@
+﻿  Source.cpp
+d:\project\computer science project\object_oriented_programming\assign7\assign7\source.cpp(320): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign7\assign7\source.cpp(340): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign7\assign7\source.cpp(364): warning C4018: '<': signed/unsigned mismatch
+d:\project\computer science project\object_oriented_programming\assign7\assign7\source.cpp(329): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\project\computer science project\object_oriented_programming\assign7\assign7\source.cpp(349): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\project\computer science project\object_oriented_programming\assign7\assign7\source.cpp(373): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  Assign7.vcxproj -> D:\Project\Computer Science Project\Object_Oriented_Programming\Assign7\Debug\Assign7.exe
+  Assign7.vcxproj -> D:\Project\Computer Science Project\Object_Oriented_Programming\Assign7\Debug\Assign7.pdb (Full PDB)

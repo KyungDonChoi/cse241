@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\project\computer science project\object_oriented_programming\assign5\assign5\source.cpp(51): warning C4244: 'initializing': conversion from 'llint' to 'unsigned int', possible loss of data
+d:\project\computer science project\object_oriented_programming\assign5\assign5\source.cpp(52): warning C4244: 'initializing': conversion from 'llint' to 'unsigned int', possible loss of data
+d:\project\computer science project\object_oriented_programming\assign5\assign5\source.cpp(53): warning C4244: 'initializing': conversion from 'llint' to 'unsigned int', possible loss of data
+d:\project\computer science project\object_oriented_programming\assign5\assign5\source.cpp(86): warning C4244: 'argument': conversion from 'llint' to 'unsigned int', possible loss of data
+d:\project\computer science project\object_oriented_programming\assign5\assign5\source.cpp(89): warning C4244: 'argument': conversion from 'llint' to 'unsigned int', possible loss of data
+  Assign5.vcxproj -> D:\Project\Computer Science Project\Object_Oriented_Programming\Assign5\Debug\Assign5.exe
+  Assign5.vcxproj -> D:\Project\Computer Science Project\Object_Oriented_Programming\Assign5\Debug\Assign5.pdb (Full PDB)
